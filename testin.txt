@@ -1,0 +1,4 @@
+en Enzyme:
+    shallow => {
+        segundo mas costostoso pero siempre el mas preferible.
+        cubre CDM-CDU-STATECHANGES-PROPS

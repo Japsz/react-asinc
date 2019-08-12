@@ -1,0 +1,17 @@
+export const GET_USERS_INIT = 'GET_USERS_INIT';
+export const GET_USERS_SUCCESS = 'GET_USERS_SUCCESS';
+export const GET_USERS_ERROR = 'GET_USERS_ERROR';
+
+export const GET_USER_INIT = 'GET_USER_INIT';
+export const GET_USER_SUCCESS = 'GET_USER_SUCCESS';
+export const GET_USER_ERROR = 'GET_USER_ERROR';
+
+export const GET_LOGIN_INIT = 'GET_LOGIN_INIT';
+export const GET_LOGIN_SUCCESS = 'GET_LOGIN_SUCCESS';
+export const GET_LOGIN_ERROR = 'GET_LOGIN_ERROR';
+export const GET_LOGIN_RESET = 'GET_LOGIN_RESET';
+
+export const ADD_USER_INIT = 'ADD_USER_INIT';
+export const ADD_USER_SUCCESS = 'ADD_USER_SUCCESS';
+export const ADD_USER_ERROR = 'ADD_USER_ERROR';
+export const ADD_USER_RESET = 'ADD_USER_RESET';

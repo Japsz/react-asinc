@@ -1,0 +1,12 @@
+.loader{
+    width: 100%;
+    align-content: center;
+    justify-content: center;
+    font-weight: bolder;
+    font-size: large;
+}
+.page-title{
+    margin-bottom: 10px;
+    font-weight: bolder;
+    font-size: larger;
+}
